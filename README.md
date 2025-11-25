@@ -66,3 +66,21 @@ between culture, cognition, and machine intelligence.
 If you work in the AI frontier space,
 and find any of these ideas useful,
 feel free to reach out.
+
+
+
+
+2025 K.J.Keeley (Kevin)
+
+This work is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+
+You are free to share this work with proper credit to the original author.
+
+You may NOT:
+- Use this work for commercial purposes
+- Modify, adapt, or build upon this work
+- Present this work or its ideas as your own
+
+For commercial use, implementation, or collaboration inquiries, contact the author directly.
+
+Full license: https://creativecommons.org/licenses/by-nc-nd/4.0/
