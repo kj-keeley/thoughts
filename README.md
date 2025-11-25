@@ -69,8 +69,11 @@ feel free to reach out.
 
 
 
+-----------
 
-2025 K.J.Keeley (Kevin)
+
+
+© 2025 K.J.Keeley (Kevin)
 
 This work is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
 
