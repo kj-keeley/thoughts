@@ -1,6 +1,6 @@
 # Causal Shape Framework
 
-*Revised November 20, 2026*
+*Revised November 21, 2026*
 
 “Terrain is the stage. Flow is what happens over time. There are actors, too.”
 
@@ -22,6 +22,19 @@ Four shapes describe what the flow does over time. The conditions determine thei
 | Smolders | A difference exists, but a closed valve blocks movement along that path. |
 
 An actor can **steer** by choosing a path or braking, **change the terrain** by altering a path or its conditions, or **communicate** to influence the other actor. The other actor has a steering wheel of their own.
+
+### Four roles actors can bring
+
+When several actors look at the same flow, they may give priority to different kinds of information. Shape Theory draws on the four groups in IFD-16, each containing four types, to describe what each can contribute.
+
+| Group | Information given priority | Role | A question an actor might ask |
+| --- | --- | --- | --- |
+| IJ | Flow | Principles | What principle or tendency can we see in how this unfolds? |
+| EJ | Action | Intervention | Where could I intervene to bring us closer to the goal? |
+| EP | State | Observation | What is happening on the ground right now? |
+| IP | Data | Data | What concrete information can we use to make this decision? |
+
+These roles describe priorities. An actor can contribute in other ways too. An intervention might involve steering one's own actions, changing the terrain, or communicating with another actor.
 
 ## Five parts
 
